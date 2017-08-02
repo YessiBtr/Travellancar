@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/thumbnail"
+            android:layout_width="match_parent"
+            android:layout_height="190dp"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:clickable="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/album1"/>
+
+        <TextView
+            android:text="Pertunjukan Wisata aosidhaosdi aosidhaosida asodihasdiohas asodihasoidh aosidhasio "
+            android:id="@+id/title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/thumbnail"
+            android:paddingLeft="@dimen/item_title_padding"
+            android:paddingRight="@dimen/item_title_padding"
+            android:paddingTop="@dimen/item_title_padding"
+            android:textColor="@color/item_title"
+            android:textSize="@dimen/item_title" />
+        <TextView
+            android:text="detiik.com"
+            android:id="@+id/sumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title"
+            android:paddingBottom="@dimen/item_count_padding_bottom"
+            android:paddingLeft="@dimen/item_title_padding"
+            android:paddingRight="@dimen/item_title_padding"
+            android:textSize="@dimen/item_count" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IndoTravel</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="backdrop_title">LOVE MUSICS</string>
+    <string name="backdrop_subtitle">This season top 20 music</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- facebook login app id and login scheme-->
+    <string name="facebook_app_id">210077492834843</string>
+    <string name="fb_login_protocol_scheme">fb210077492834843</string>
+
+    <!-- AdMob ad unit IDs -->
+    <string name="banner_home_footer">ca-app-pub-3360693956070566/2204032738</string>
+    <string name="interstitial_full_screen">ca-app-pub-3360693956070566/9587698737</string>
+</resources>

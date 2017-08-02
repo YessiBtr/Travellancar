@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "320811671694",
+    "firebase_url": "https://indotravel-7d8b4.firebaseio.com",
+    "project_id": "indotravel-7d8b4",
+    "storage_bucket": "indotravel-7d8b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320811671694:android:f28023a327f31275",
+        "android_client_info": {
+          "package_name": "develops.indotravel.stud11314058"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320811671694-pjlefgj0pl0jtb9bm0p78n8ehnbfusto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiheXIXuJOuC8-cExuHerYwjX8dFiOg80"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
